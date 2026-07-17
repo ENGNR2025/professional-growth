@@ -11,5 +11,20 @@ It includes LinkedIn posts, notes, reflections, projects, and learning milestone
 - Cybersecurity Foundations  
 
 ## Purpose
-To track my progress, share what I'm learning, and build a transparent portfolio of my growth.
+I’m building a transparent, evolving portfolio that documents:
+
+What I’m learning
+
+How I’m applying new skills
+
+My progress toward IoT/IIoT and quantum‑safe security roles
+
+Real projects, reflections, and milestones
+
+This repository serves as a central hub for my growth — combining LinkedIn posts, notes, projects, and technical explorations.
+
+## 🔗 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/kari-smith-b81b42291  
+**GitHub:** https://github.com/ENGNR2025
 
